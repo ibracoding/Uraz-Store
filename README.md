@@ -17,7 +17,7 @@
 
 *Provider <br/>
 *Shared Preferences <br/>
-*flutter_launcher_icons(create logo)<br/>
+*flutter_launcher_icons(created logo)<br/>
 
  ## 📹`Video` 🎁`Gift` 📷`Photo` <br/>
 <div style="display: flex; overflow-x: auto; white-space: nowrap; padding: 10px; border: 1px solid #ddd;">

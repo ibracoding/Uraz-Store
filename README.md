@@ -1,9 +1,9 @@
-# uraz_store_app<br/>
+# 📱 uraz_store_app<br/>
 
-* Minimal bir e-ticareet sitesi . <br/>
+* Minimal bir e-ticareet sitesi. :tada: <br/>
 
 
-## Uygulama Hakkında <br/>
+## 📑 Uygulama Hakkında <br/>
 
 * Uygulama da Anasayfa ,Favori ve Sepet bölümü olmak üzere üç anasayfadan oluşuyor. <br/>
 * Anasayfada ürünü Favoriye veya sepete ekleyebiliyoruz .`Shared Preferences` sayesinde bilgileri telefon hafızasına kaydediyoruz . Kullanıcı, fov. ve sepet bölümüne eklediği ürünleri uygulamayı kapatıp açsa da silinmez. <br/>
@@ -13,13 +13,13 @@
 * Anasayfada ürünlere hızlı ulaşabilmek için **AppBar** bölümüne **Search Iconu** yerleştirildi (action). `Search Iconu` tıklandığında `Arama Çubuğu` açılıyor. Arama çubuğundaki clean(X) ikonuna tıklandığında arama çubuğu kapanıp icon haline geliyor,appbarda uygulama ismi gözüküyor. <br/>
 
 
-##Kullanılan Teknolojiler(`Paketler`,`Widgetlar`, `Mimari Yapı`, ...) <br/>
+## 🧑‍💻 Kullanılan Teknolojiler(`Paketler`,`Widgetlar`, `Mimari Yapı`, ...) <br/>
 
 *Provider <br/>
 *Shared Preferences <br/>
 *flutter_launcher_icons(create logo)<br/>
 
- ## `Video` `Gift` `Photo` <br/>
+ ## 📹`Video` 🎁`Gift` 📷`Photo` <br/>
 <div>
     <img src="https://github.com/user-attachments/assets/dab0a63b-a466-43fc-85f5-8d55982f7f9b" alt="1" style="width: 200px; height: auto; margin-right: 10px;">
     <img src="https://github.com/user-attachments/assets/1738ae95-bf84-4a9c-b79c-c5baf0f0d50c" alt="2" style="width: 200px; height: auto; margin-right: 10px;">

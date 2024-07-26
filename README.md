@@ -21,3 +21,4 @@
 
  ## `Video` `Gift` `Photo` <br/>
 
+	/assets/logo.png
